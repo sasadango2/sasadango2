@@ -1,5 +1,5 @@
 ## Yo,What's up brooo!!!!👋
-```
+```css
 #sasadango2 { 
   from: Japan🇯🇵; 
   favmusician: TWICE/Newjeanz; 
