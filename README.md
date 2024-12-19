@@ -12,3 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div style="display:flex; flex-direction:column;align-items:center;justify-content:center;gap: 10px;">
+    <img src="https://git-hub-streak-stats.vercel.app/?user=Sasadango2&theme=rising-sun" alt="GitHub Streak" style="width: 50%; max-width: 325px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasadango2&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 50%; max-width: 325px;height: 100%;" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Sasadango2&show_icons=true&theme=dark" style="width: 50%; max-width: 325px">
+</div>
