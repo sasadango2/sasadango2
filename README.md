@@ -1,11 +1,11 @@
-## Yo,What's up brooo!!!!👋
+## Hi there!!!!👋
 ```css
 #sasadango2 { 
   from: Japan🇯🇵; 
-  favmusician: TWICE/Newjeanz; 
-  height: 178cm;
-  sports: soccer; 
-  job: University Student; 
-  color: black; 
+  music: TWICE/Newjeanz/RADWIMPS🎧; 
+  food: ramen🍜;
+  sports: soccer⚽️; 
+  job: University Student🧑‍🎓; 
+  hobby: gym💪/fashion🧥; 
 }
 ```
