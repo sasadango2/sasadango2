@@ -7,7 +7,7 @@
     "food": "ramen🍜",
     "sports": "soccer⚽️",
     "job": "University Student🧑‍🎓",
-    "hobby": ["gym💪", "fashion🧥"]
+    "hobby": ["fashion🧥"]
   }
 }
 
